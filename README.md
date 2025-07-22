@@ -8,7 +8,7 @@
 
 ## Навыки
 
-- Python (pandas, matplotlib, seaborn)
+- Python (pandas, matplotlib, seaborn и др.)
 - SQL (PostgreSQL)
 - Power BI / Excel
 - Статистика, A/B-тесты
@@ -30,5 +30,5 @@
 
 - Email: yulyaivandaeva@mail.ru  
 - Telegram: [@leevanlix](https://t.me/leevanlix)  
-- Резюме: []  
+- Резюме: [CV](https://drive.google.com/file/d/1vNuFJN_9FnRgmny_bc47_1EgyWCmXS3Q/view?usp=sharing)
 
