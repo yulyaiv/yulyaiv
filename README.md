@@ -21,7 +21,7 @@
 | Проект | Описание | Технологии |
 |--------|----------|------------|
 | [HR-анализ](https://github.com/your_username/hr-analysis-project) | Анализ удовлетворенности сотрудников, построение модели LDA | Python, pandas, sklearn |
-| [Бронирование отелей](https://github.com/...) | Исследование отмен бронирований, рекомендации бизнесу | SQL, Excel, Python |
+| [Бронирование отелей]((https://github.com/yulyaiv/hotel-booking-analysis)) | Исследование отмен бронирований, рекомендации бизнесу | SQL, Excel, Python |
 | [Дашборд кафе](https://github.com/...) | Дашборд с KPI по выручке в Power BI | Power BI, DAX |
 
 ---
