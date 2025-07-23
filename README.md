@@ -21,7 +21,7 @@
 |--------|----------|------------|
 | [HR-анализ](https://github.com/yulyaiv/hr-analysis) | Анализ удовлетворенности сотрудников, построение модели LDA | Python, pandas, sklearn |
 | [Бронирование отелей](https://github.com/yulyaiv/hotel-booking-analysis) | Исследование отмен бронирований, рекомендации бизнесу | Python |
-| [Дашборд кафе](https://github.com/...) | Дашборд с KPI по выручке в Power BI | Power BI, DAX |
+| [Дашборд кафе](https://github.com/yulyaiv/cafe-dashboard) | Дашборд с KPI по выручке в Power BI | Power BI, DAX |
 
 ---
 
