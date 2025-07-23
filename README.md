@@ -12,7 +12,6 @@
 - SQL (PostgreSQL)
 - Power BI / Excel
 - Статистика, A/B-тесты
-- Jupyter Notebook, Git
 
 ---
 
