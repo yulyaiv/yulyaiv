@@ -30,5 +30,5 @@
 
 - Email: yulyaivandaeva@mail.ru  
 - Telegram: [@leevanlix](https://t.me/leevanlix)  
-- Резюме: [CV](https://drive.google.com/file/d/1KtyBV55Oi3XZB6ATJxH2Z5RgLrLy4wGq/view?usp=sharing)
+- Резюме: [CV](https://drive.google.com/file/d/1hW8Sj110zK5RGUG8sXQj_qvoaCT3ogji/view?usp=sharing)
 
