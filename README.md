@@ -9,9 +9,9 @@
 
 ## Навыки
 
-- Python (pandas, matplotlib, seaborn и др.)
-- SQL (PostgreSQL)
-- Power BI / Excel
+- SQL (PostgreSQL) / Excel
+- Python (pandas, matplotlib, seaborn и др.) 
+- Power BI 
 
 ---
 
