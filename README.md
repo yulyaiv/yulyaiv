@@ -19,10 +19,10 @@
 
 | Проект | Описание | Технологии |
 |--------|----------|------------|
-| [HR-анализ](https://github.com/yulyaiv/hr-analysis) | Анализ удовлетворенности сотрудников, построение модели LDA | Python, pandas, sklearn |
+| [HR-анализ](https://github.com/yulyaiv/hr-analysis) | Анализ удовлетворенности сотрудников, построение модели LDA | Python (pandas, sklearn) |
 | [Бронирование отелей](https://github.com/yulyaiv/hotel-booking-analysis) | Исследование отмен бронирований, рекомендации бизнесу | Python |
-| [Дашборд кафе](https://github.com/yulyaiv/cafe-dashboard) | Дашборд с KPI по выручке в Power BI | Power BI, DAX |
-| [SQL проект по базе данных бронирования авиабилетов](https://github.com/yulyaiv/avia-bookings) | Краткое описание и развернутый анализ БД, ее таблиц и представлений, написание SQL-запросов описаниями, создание ER-диаграммы | SQL |
+| [Дашборд кафе](https://github.com/yulyaiv/cafe-dashboard) | Дашборд с KPI по выручке в Power BI | Power BI, Excel |
+| [SQL проект по базе данных бронирования авиабилетов](https://github.com/yulyaiv/avia-bookings) | Краткое описание и развернутый анализ БД, ее таблиц и представлений, написание SQL-запросов описаниями, создание ER-диаграммы | SQL, PostgreSQL |
 
 ---
 
